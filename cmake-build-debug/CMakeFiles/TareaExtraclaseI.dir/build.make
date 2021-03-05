@@ -90,17 +90,62 @@ CMakeFiles/TareaExtraclaseI.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaExtraclaseI.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/main.cpp -o CMakeFiles/TareaExtraclaseI.dir/main.cpp.s
 
+CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o: CMakeFiles/TareaExtraclaseI.dir/flags.make
+CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o: ../List/List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o -c /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp
+
+CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp > CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.i
+
+CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp -o CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.s
+
+CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o: CMakeFiles/TareaExtraclaseI.dir/flags.make
+CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o: ../List/Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o -c /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.cpp
+
+CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.cpp > CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.i
+
+CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.cpp -o CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.s
+
+CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o: CMakeFiles/TareaExtraclaseI.dir/flags.make
+CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o: ../Collector/Collector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o -c /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp
+
+CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp > CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.i
+
+CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp -o CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.s
+
 # Object files for target TareaExtraclaseI
 TareaExtraclaseI_OBJECTS = \
-"CMakeFiles/TareaExtraclaseI.dir/main.cpp.o"
+"CMakeFiles/TareaExtraclaseI.dir/main.cpp.o" \
+"CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o" \
+"CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o" \
+"CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o"
 
 # External object files for target TareaExtraclaseI
 TareaExtraclaseI_EXTERNAL_OBJECTS =
 
 TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/main.cpp.o
+TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/List/List.cpp.o
+TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/List/Node.cpp.o
+TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/Collector/Collector.cpp.o
 TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/build.make
 TareaExtraclaseI: CMakeFiles/TareaExtraclaseI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TareaExtraclaseI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable TareaExtraclaseI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TareaExtraclaseI.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

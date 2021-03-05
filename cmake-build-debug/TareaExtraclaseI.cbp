@@ -82,6 +82,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.cpp">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
+		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h">
+			<Option target="TareaExtraclaseI"/>
+		</Unit>
 		<Unit filename="/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/main.cpp">
 			<Option target="TareaExtraclaseI"/>
 		</Unit>

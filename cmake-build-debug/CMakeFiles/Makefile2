@@ -94,12 +94,12 @@ clean: CMakeFiles/TareaExtraclaseI.dir/clean
 CMakeFiles/TareaExtraclaseI.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TareaExtraclaseI.dir/build.make CMakeFiles/TareaExtraclaseI.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TareaExtraclaseI.dir/build.make CMakeFiles/TareaExtraclaseI.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target TareaExtraclaseI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target TareaExtraclaseI"
 .PHONY : CMakeFiles/TareaExtraclaseI.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TareaExtraclaseI.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/TareaExtraclaseI.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TareaExtraclaseI.dir/rule

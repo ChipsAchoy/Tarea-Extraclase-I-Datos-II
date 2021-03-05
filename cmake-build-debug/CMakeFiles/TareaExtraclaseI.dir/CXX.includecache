@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/main.cpp
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp
+Collector.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
+
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
 iostream
 -
+../List/Node.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
+
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
+iostream
+-
+../Collector/Collector.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
 
