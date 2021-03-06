@@ -1,6 +1,3 @@
-//
-// Created by anthony on 5/3/21.
-//
 
 #ifndef TAREAEXTRACLASEI_LIST_H
 #define TAREAEXTRACLASEI_LIST_H
@@ -20,9 +17,22 @@ class List {
         int list_len;
     public:
         Node * head = NULL;
+        /**
+         * Constructor de la clase lista
+         */
         List();
+        /**
+         * Elimina el primer nodo de la lista
+         */
         void deleteNode();
+        /**
+         * Agrega un nodo al inicio de la lista
+         * @param value valor asociado al nodo
+         */
         void addNode(int value);
+        /**
+         * Muestra los nodos de la lista
+         */
         void printList();
 
 };

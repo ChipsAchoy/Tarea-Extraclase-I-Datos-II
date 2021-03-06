@@ -48,10 +48,11 @@ void Collector::addDir(Node* new_dir) {
 }
 
 void Collector::printCollector() {
-    cout << "El colector contiene las dirs\n" ;
+    cout << "-------------------\n" << "El colector contiene las dirs\n" << "\n";
     for (int i=0; i<this->dirs; i++){
         cout << "<" << this->directions[i] << ">\n";
     }
+    cout << "-------------------\n" ;
 }
 
 bool Collector::hasDirs() {

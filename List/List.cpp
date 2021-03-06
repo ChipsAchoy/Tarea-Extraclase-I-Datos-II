@@ -13,7 +13,7 @@ void List::addNode(int value) {
         Node *tmp = new Node(value, this->head);
         head = tmp;
     }
-    cout << "Nuevo nodo con el valor de:" << value << "\n";
+    cout << "-------------------\n" << "Nuevo nodo con el valor de:" << value << "\n-------------------\n";
 }
 
 void List::deleteNode() {
@@ -21,6 +21,7 @@ void List::deleteNode() {
         this->list_len--;
         Node *tmp = this->head;
         this->head = this->head->next;
+        cout << "Se elimina el nodo de valor: " << tmp->value << "\n";
         delete tmp;
     }else{
         cout << "La lista esta vacia" << "\n";
@@ -30,8 +31,10 @@ void List::deleteNode() {
 
 void List::printList() {
     Node * tmp = this->head;
+    cout << "-------------------\n";
     for (int i=0; i<this->list_len; i++){
-        cout << "<Valor: "<< tmp->value << ", direccion" << tmp << ">" <<"\n";
+        cout << "<Valor: "<< tmp->value << ", direccion: " << tmp << ">" <<"\n";
         tmp = tmp->next;
     }
+    cout << "-------------------\n";
 }

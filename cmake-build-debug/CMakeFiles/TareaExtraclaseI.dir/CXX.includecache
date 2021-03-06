@@ -6,15 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.cpp
-Collector.h
-/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
-
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
 iostream
 -
 ../List/Node.h
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
+
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp
+List.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h
+
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h
+iostream
+-
+Node.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
+../Collector/Collector.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
 
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
 iostream
