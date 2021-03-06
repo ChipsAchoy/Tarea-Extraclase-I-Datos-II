@@ -12,10 +12,6 @@ iostream
 ../List/Node.h
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/Node.h
 
-/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.cpp
-List.h
-/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h
-
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h
 iostream
 -
@@ -29,4 +25,10 @@ iostream
 -
 ../Collector/Collector.h
 /home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/Collector/Collector.h
+
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/main.cpp
+iostream
+-
+List/List.h
+/home/anthony/Desktop/RepositoriosGit/TareaExtraclaseI/List/List.h
 
