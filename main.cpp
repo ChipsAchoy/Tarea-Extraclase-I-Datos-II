@@ -2,6 +2,11 @@
 
 #include "List/List.h"
 
+/**
+ * Metodo main que permite ver la ejecucion especificada en la documentacion
+ * @author Anthony Chaves Achoy
+ */
+
 int main() {
     List * list = new List();
     list->addNode(4);

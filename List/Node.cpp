@@ -1,6 +1,7 @@
 
 
 #include "Node.h"
+
 Collector * col = new Collector();
 
 Node::Node(int val, Node* n){

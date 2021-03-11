@@ -20,6 +20,7 @@ void * Collector::assign_dir() {
             }
             this->directions = cur_directions;
         }
+
         cout << "La direc asignada es: " << dir_ret << "\n";
         return dir_ret;
     }else{
