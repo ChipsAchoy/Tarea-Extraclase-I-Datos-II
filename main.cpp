@@ -21,7 +21,5 @@ int main() {
     list->addNode(9);
     list->addNode(2);
     list->printList();
-    list->addNode(8);
-    list->printList();
 
 }
